@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marta</h1>
 <h3 align="center">A curious frontend developer. I get easily bored if I don't discover something new about coding!</h3>
 
-- 🔭 I’m currently working on [best restaurants from Wroclaw](https://github.com/MartaAG/bestRestaurants)
+- 🔭 I’m currently working on [Dare It Code Challenge](https://github.com/MartaAG/Dare-It-code-challenge)
 
-- 🌱 I’m currently learning **Vue, React**
+- 🌱 I’m currently learning **React**
 
 - ⚡ Fun fact **I discovered Ruby magic and I really like it!**
 
